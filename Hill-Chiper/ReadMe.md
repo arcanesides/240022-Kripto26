@@ -267,17 +267,17 @@ $$
 
 ### 1. Screenshot Enkripsi
 
-screenshots/enkripsi.png
+![Screenshot Enkripsi](screenshots/enkripsi.png)
 
 
 ### 2. Screenshot Dekripsi
 
-screenshots/dekripsi.png
+![Screenshot Dekripsi](screenshots/dekripsi.png)
 
 
 ### 3. Screenshot Mencari Kunci
 
-screenshots/mencari-kunci.png
+![Screenshot Mencari Kunci](screenshots/mencari-kunci.png)
 
 
 ---
