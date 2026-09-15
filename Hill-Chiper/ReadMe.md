@@ -267,23 +267,18 @@ $$
 
 ### 1. Screenshot Enkripsi
 
-
-```text
 screenshots/enkripsi.png
-```
+
 
 ### 2. Screenshot Dekripsi
 
-
-```text
 screenshots/dekripsi.png
-```
+
 
 ### 3. Screenshot Mencari Kunci
 
-```text
 screenshots/mencari-kunci.png
-```
+
 
 ---
 
